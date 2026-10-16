@@ -1,0 +1,13 @@
+# 数据不进版本库（第三方共享表，公开转载不合适）
+data/raw/
+data/processed/
+outputs/*.xlsx
+outputs/*.json
+!data/sample/
+
+# 系统与编辑器
+.DS_Store
+__pycache__/
+*.pyc
+.vscode/
+.idea/
